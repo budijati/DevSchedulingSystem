@@ -1,0 +1,14 @@
+Requirement Non Functional Penjadwalan Seminar/Sidang PA
+
+NF1 Yang dapat melakukan pendaftaran terhadap software adalah mahasiswa ITB yang sudah memenuhi persyaratan seminar/sidang
+NF2 Seminar tesis dapat dilaksanakan jika progres tesis sudah di setujui oleh pembimbing dan mengajukan permohonan sidang ke TU
+NF2 Sidang tesis dapat dilaksanakan jika seminar 1/2 telah dilaksanakan,  mengajukan permohonan sidang ke TU dan mendapat persetujuan dari pembimbing untuk melanjutkan sidang
+NF3 software harus dapat memisahkan antara tampilan  dosen dan operator
+NF4 software harus dapat ditampilkan melalui Web App pada berbagai perangkat mobile.
+NF5 Software harus dapat menutup sendiri jika ditinggalkan lebih dari 5 menit.
+NF6 Software harus dapat mudah digunakan oleh user.
+NF7 Software harus memiliki dokumentasi
+NF8 Software harus aman, hanya user yang memiliki hak akses yang dapat menggunakan software tersebut.
+NF9 Software harus dapat beroperasi  24 jam selama 7 hari penuh.
+NF10 Jika terdapat perbaikan, lama perbaikan software maksimal 1 hari
+NF11 Sistem harus memiliki backup database untuk penjadwalan seluruh tahun
